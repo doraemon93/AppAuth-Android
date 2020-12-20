@@ -1,4 +1,5 @@
 ![AppAuth for Android](https://rawgit.com/openid/AppAuth-Android/master/appauth_lockup.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdoraemon93%2FAppAuth-Android.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdoraemon93%2FAppAuth-Android?ref=badge_shield)
 
 [![Download](https://api.bintray.com/packages/openid/net.openid/appauth/images/download.svg) ](https://bintray.com/openid/net.openid/appauth/_latestVersion)
 [![Javadocs](http://javadoc.io/badge/net.openid/appauth.svg)](http://javadoc.io/doc/net.openid/appauth)
@@ -659,3 +660,7 @@ In order to run the tests and code analysis, run `./gradlew check`.
 
 In AndroidStudio, File -> New -> Import project. Select the root folder
 (the one with the `build.gradle` file).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdoraemon93%2FAppAuth-Android.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdoraemon93%2FAppAuth-Android?ref=badge_large)
